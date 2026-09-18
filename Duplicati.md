@@ -6,7 +6,7 @@
 2. Engega la màquina virtual i inicia sessió a Windows 11. A l'adminisrtrador de discs, inicialitza i formata el nou disc com a NTFS.
 3. Descarrega: Ves a la web oficial de Duplicati i baixa l'instal·lador per a Windows (.msi).
 4. Instal·la: Executa l'arxiu i segueix l'assistent. Assegura't de marcar l'opció per executar-lo a l'inici (Launch Duplicati at startup).
-5. Obre la interfície: Duplicati funciona a través del navegador web. Un cop instal·lat, s'obrirà automàticament a http://localhost:8200.
+5. Obre la interfície: Duplicati funciona a través del navegador web. Un cop instal·lat, s'obrirà automàticament a `http://localhost:8200`.
 
 ## Configuració de la còpia local (unitat externa)
 
@@ -18,7 +18,7 @@
    - Xifratge: Deixa AES-256.
    - Contrasenya: Genera una contrasenya forta.
 
-> MOLT IMPORTANT: Desa aquesta contrasenya en un gestor de contrasenyes o en paper. Sense ella, no podràs recuperar les dades.
+   > MOLT IMPORTANT: Desa aquesta contrasenya en un gestor de contrasenyes o en paper. Sense ella, no podràs recuperar les dades.
 
 3. Pas 2: Destí
    - Tipus d'emmagatzematge: Unitat o carpeta local.
@@ -35,4 +35,3 @@
     - Mida del volum: 50MB (per defecte està bé).
     - Retenció de còpies: Selecciona "Retenció intel·ligent de còpies de seguretat" (guarda una cada hora les últimes 24h, una diària la setmana següent, etc., per estalviar espai).
     - Desa la configuració.
-

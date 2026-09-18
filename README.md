@@ -1,12 +1,52 @@
 # Activitat còpies de seguretat
 
-## Projecte 4: EverPia III Desafiament Final. Tasca 2
-
-## Enunciat
+## Presentació de l'activitat
 
 ### Introducció al cas
 
 A la tasca anterior heu dissenyat una política de còpies de seguretat pel nostre nou client "Muntatges i Serveis Tècnics SL". Ara toca passar a l’acció i portar a la pràctica l’estudi anterior. El client demana que s’elaborin unes guies tècniques amb proves de concepte per tal que el seu personal estigui qualificat per implantar el pla de còpies de seguretat.
+
+### Durada de l'activitat
+
+La durada estimada de l'activitat és de 5 hores.
+
+### Objectius de l'activitat
+
+L’objectiu d’aquesta activitat és realitzar i documentar una política de còpies de seguretat tant pels equips client Windows, com pel servidor Linux.
+
+### Competències treballades
+
+a) Determinar la logística associada a les operacions d’instal·lació, configuració i manteniment de sistemes microinformàtics, interpretant-ne la documentació tècnica associada i organitzant els recursos necessaris.
+c) Instal·lar i configurar programari bàsic i d’aplicació, assegurant-ne el funcionament en condicions de qualitat i seguretat.
+j) Elaborar documentació tècnica i administrativa del sistema, complint les normes i reglamentació del sector, per al seu manteniment i l’assistència al client.
+
+### Resultats d'aprenentatge i criteris d'avaluació
+
+RA2. Gestiona dispositius d'emmagatzematge descrivint els procediments efectuats i aplicant tècniques per assegurar la integritat de la informació.
+
+2.5 Selecciona estratègies per a la realització de còpies de seguretat.
+2.6 Té en compte la freqüència i l'esquema de rotació.
+2.7 Realitza còpies de seguretat amb diferents estratègies.
+
+### Continguts
+
+2.4 Còpies de seguretat i imatges de suport. Mitjans d'emmagatzematge.
+
+### Capacitats clau
+
+- Autonomia
+- Organització del treball
+- Responsabilitat
+- Resolució de problemes
+
+### Semàfor ús de la IA
+
+🟠 Aquesta activitat permet un ús parcial o restringit.
+
+- Permès per com a eina de suport en la millora de la redacció dels informes, cerca preliminar d'informació, estructuració d'idees o explicació de conceptes teòrics complexos.
+- Condicions: Cal processar, entendre i validar sempre els resultats rebuts. **Està totalment prohibit copiar l'enunciat d'un exercici directament al xat de la IA i enganxar la resposta generada** per al lliurament final sense treball propi ni anàlisi crítica.
+
+## Realització pràctica
 
 ### Part 1: Còpia seguretat dels equips clients Windows
 
