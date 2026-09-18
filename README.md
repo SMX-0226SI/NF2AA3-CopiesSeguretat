@@ -56,7 +56,7 @@ Com a prova de concepte per crear la guia, creareu una màquina virtual Windows 
 
 Es desitja fer còpies de seguretat del perfil de l’usuari cada hora al disc secundari i a les 18:00 a Google Drive.
 
-Documenteu el procediment de instal·lació de Duplicati, la configuració dels plans de còpies i observeu el funcionament. Per això, afegiu arxius a les carpetes de l’usuari, especialment a Documents.
+Documenteu el procediment de instal·lació de Duplicati, la configuració dels plans de còpies i observeu el funcionament. Per això, afegiu arxius a les carpetes de l’usuari, especialment a Documents. Podeu usar com a referència i ajuda el document [Guia còpies de seguretat amb Duplicati](Duplicati.md).
 
 ### Part 2: Còpia de seguretat del servidor Linux
 
@@ -96,5 +96,5 @@ Ara passaràs a automatitzar el procés de les còpies utilitzant uns scripts b�
 - [Duplicity](https://duplicity.gitlab.io)
 - [Duplicty man pages](http://manpages.ubuntu.com/manpages/trusty/man1/duplicity.1.html)
 - [WaytoIT. Creando archivos de prueba con fsutil](https://waytoit.wordpress.com/2015/03/15/creando-archivos-con-fsutil/)
-- [WaytoIT. Creando archivos de pruebe en Linux](https://waytoit.wordpress.com/2015/03/21/creando-archivos-de-prueba-en-linux/)
+- [WaytoIT. Creando archivos de prueba en Linux](https://waytoit.wordpress.com/2015/03/21/creando-archivos-de-prueba-en-linux/)
 - [Progamant tasques amb cron](https://geekytheory.com/programar-tareas-en-linux-usando-crontab)
